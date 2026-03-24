@@ -4,9 +4,9 @@ A highly motivated Software Engineer with a strong foundation in Machine Learnin
 
 Skills
 
-- Programming Languages: Python, HTML, CSS
+- Programming Languages: Python, HTML, CSS, Dart
 - Databases: MySQL
-- Frameworks & Tools: Flask, FastAPI, Android
+- Frameworks & Tools: Flask, FastAPI, Android, Flutter, Django
 - Machine Learning: Regression, Random Forest, XGBoost, TensorFlow, scikit-learn
 - Domains: Machine Learning, Data Science, Web Development, Android Development
 - Other: Data Preprocessing, Feature Engineering, Model Evaluation (MAE, R² Score), SDLC
@@ -19,8 +19,7 @@ House Price Prediction Using Machine Learning
 - Implemented data preprocessing, feature engineering, and various regression algorithms (Linear Regression, Random Forest, XGBoost) to improve prediction accuracy.
 - Evaluated model performance using Mean Absolute Error (MAE) and R² Score to ensure reliable predictions.
 - Deployed the solution using Flask, enabling real-time price estimation and user interaction.
-- 
+
 Education
 **Master’s in Computer Applications (MCA)**  
 Specialization: Artificial Intelligence, Machine Learning, Data Science  
-*In Progress*
